@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+#output files
+keyboard_sensor
+mousemotion
+window_name
+
 # Compiled Object files
 *.slo
 *.lo
