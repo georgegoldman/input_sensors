@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+#vscode config
+.vscode
+
 #output files
 keyboard_sensor
 mousemotion
