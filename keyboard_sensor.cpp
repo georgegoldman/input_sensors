@@ -19,6 +19,7 @@ int main() {
     while (true) {
         XNextEvent(display, &event);
         if (event.type == KeyPress) {
+            std::cout << "Key: " << event.xkey.keycode << std::endl;
             if (event.xkey.keycode == escapeKeyCode){
                 break;
             }
