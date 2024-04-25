@@ -8,6 +8,7 @@
 keyboard_sensor
 mousemotion
 window_name
+screen_shot
 
 # Compiled Object files
 *.slo
